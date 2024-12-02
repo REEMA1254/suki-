@@ -1,0 +1,9 @@
+.footer
+{ 
+    display: flex;
+    background-color: blueviolet;
+    padding: 40px;
+    justify-content: space-between;
+   
+
+}
